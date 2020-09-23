@@ -1,34 +1,22 @@
 ---
-title: "Designers thoughts about mobile UI"
-date: 2020-07-13T12:49:27+06:00
-featureImage: images/allpost/allPost-5.jpg
-postImage: images/single-blog/feature-image.jpg
+title: "點解你 10% 嘅資產配備要用嚟買黃金？"
+date: 2020-07-14T12:49:27+06:00
+featureImage: images/allpost/allPost-5.png
+postImage: images/single-blog/feature-image4.jpg
 ---
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+係當今世界局勢中，你嘅財富承受住嚴重嘅變動同埋系統性嘅風險，到底喺邊到先可以為你嘅財富搵到優質嘅「保險」？資產又應該點分配？
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+你嘅資產價值日日都喺度變，受着各樣因素嘅影響，包括環球經濟、社會、政治等等，令到你嘅資產價值變得好浮動。今天嘅你攞住 $1,000，半年後，你嗰 $1,000 嘅價值可能已經不如當初。同樣攞住 $1,000 嘅你已經買唔番半年前你買到嘅嘢，因為物價已經全面上漲。
 
-> "The public is more familiar with bad design than good design. It is, in effect, conditioned to prefer bad design, because that is what it lives with. The new becomes threatening, the old reassuring."
-> -- <cite>Benjamin Franklin</cite>
+唔想你嘅資產受住咁大嘅變動風險？你就更加應該好好諗吓你嘅資產配置到底要點處理啦！
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+喺全世界都咁混亂嘅局勢底下，投資黃金可能係對你財富最好嘅承諾。原因如下：
 
-- ROFL means Rolling on floor laughing.
-- STFU means Shut the _freak_ up.
-- LMK means Let me know.
-- ILY means I love you.
-- YOLO means You only live once.
-- SMH means Shaking my head.
+全球市場對黃金嘅需求強勁
+黃金喺全世界嘅地位係不容置疑嘅。由古代到而家，黃金一直都受住大家嘅追捧，世界上每一個國家都公認黃金嘅價值。加上黃金嘅開採量低，根本滿足唔到市場需要，導致供不應求，所以自然而然黃金嘅價格都唔會太低。加上，依家各國政府都開始努力咁增加國家嘅黃金儲備，以應付未來不穩定嘅環球經濟。推高左黃金嘅總需求量。有咁龐大嘅需求支撐，咁就唔怕價格會有好大嘅下跌波幅啦！
 
-The company was previously known as Hingston + Co. but has been given a complete rebrand — including a new logo, tap badges, website and branded material — by London-based design studio & Smith. The new identity is based on the Kandinsky abstract painting, Black Lines, and true to its name, is mostly black and white with a few flashes of colour. According to & Smith, the identity brings together “art and science” and has been brought to life through collaborations with nine illustrators.
+> 10% 睇起上嚟微不足道，但係實質舉足輕重。將 10% 嘅資產配備放喺黃金市場，絕對係你嘅明智之選！
+> 
 
-{{< blogsection image="images/single-blog/blog-img.jpg" title="Creative Design" >}}
-
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren,
-
-{{< /blogsection >}}
-
-sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat.
-
-Black Lines wants it to be as easy to serve a Negroni as it is a pint of lager. The drinks company is seeking to revolutionise the bar experience by serving cocktails by draught with a changing menu of drinks (as well as same favourite stand-bys). A pink grapefruit spritz was served through the summer while a new pear and white tea fizz joins the line-up for winter.
+#tiips #理財 #儲錢 #財富自由 #財富 #投資理財 #fintech #dollarforbigminds #sustainableinvesting #保險 #黃金

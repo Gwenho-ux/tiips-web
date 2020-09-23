@@ -1,11 +1,11 @@
 ---
 enable: true
-title: Hello, I am Natasha
-subtitle: I am here for your personal business
-description: Enjoy team diversity and increase their networks among others people
-  in various fields by
-buttonName: Contact me
+title: Penny Dreams Big
+subtitle: The first Spending and Invest loyalty app in Hong Kong
+description: tiips blends spending and investing,
+descriptionsub: making your life well-enriched by technology.
+buttonName: Learn more
 buttonURL: contact
-image: images/hero/2960351.jpg
+image: images/hero/hero-mask-svg.png
 videoThumb: images/hero/popup-thumb.png
 videoURL: https://www.youtube.com/embed/tgbNymZ7vqY

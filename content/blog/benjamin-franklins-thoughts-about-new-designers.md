@@ -1,34 +1,25 @@
 ---
-title: "Benjamin Franklins thoughts about new designers"
-date: 2020-07-13T12:49:27+06:00
-featureImage: images/allpost/allPost-7.jpg
-postImage: images/single-blog/feature-image.jpg
+title: "時間就係金錢，你應該早啲開始投資!"
+date: 2020-07-15T12:49:27+06:00
+featureImage: images/allpost/allPost-7.png
+postImage: images/single-blog/feature-image3.png
 ---
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+相信好多年輕人都有諗過要學下投資，為自己增添多個收入途徑。但係到底幾歲開始進入投資世界最合適呢?
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+答案就梗係越早越好啦！
 
-> "The public is more familiar with bad design than good design. It is, in effect, conditioned to prefer bad design, because that is what it lives with. The new becomes threatening, the old reassuring."
-> -- <cite>Benjamin Franklin</cite>
+好多研究同調查都曾經指出，你越早開始投資，你就越容易致富。你嘅黃金投資時間就係大約由20歲開始。知唔知道點解呢？
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+通過喺人生早期階段嘅時候開始進行投資，你不但會學習到點樣可以達到財政獨立，更加可以學習到投資同儲蓄嘅分別。:moneybag:
 
-- ROFL means Rolling on floor laughing.
-- STFU means Shut the _freak_ up.
-- LMK means Let me know.
-- ILY means I love you.
-- YOLO means You only live once.
-- SMH means Shaking my head.
+有啲人會認為年輕嘅時候投資係一種障礙，因為初出茅廬人工又唔高，又剛剛正式脫離咗父母嘅財政支持，自己擁有嘅儲蓄真係寥寥可數。但係多有多投，小有小投，你越早開始進入投資世界，你將來嘅潛在收益就越大。
 
-The company was previously known as Hingston + Co. but has been given a complete rebrand — including a new logo, tap badges, website and branded material — by London-based design studio & Smith. The new identity is based on the Kandinsky abstract painting, Black Lines, and true to its name, is mostly black and white with a few flashes of colour. According to & Smith, the identity brings together “art and science” and has been brought to life through collaborations with nine illustrators.
+另外，喺人生嘅早期就開始投資，你更有可能負擔得起其他人無法負擔嘅成本，因為年輕嘅你負擔比起其他年齡層嘅人相對低，養家活兒嘅重擔都仲未交托比你，你嘅流動資金比較充裕，令你可以領先於選擇喺人生後期先進行投資嘅其他人。
 
-{{< blogsection image="images/single-blog/blog-img.jpg" title="Creative Design" >}}
+最重要嘅一點就係，如果不幸地你嘅投資產生咗虧損，年輕嘅你就可以有更多嘅時間去彌補投資損失。所以越早開始，你嘅投資將會獲得更多時間去實現價值嘅增長。
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren,
+> 緊記，年輕就係你嘅本錢，正所謂：「少壯不努力，老大徒傷悲 」，你都盡早開始你嘅投資計劃啦！
+> 
 
-{{< /blogsection >}}
-
-sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat.
-
-Black Lines wants it to be as easy to serve a Negroni as it is a pint of lager. The drinks company is seeking to revolutionise the bar experience by serving cocktails by draught with a changing menu of drinks (as well as same favourite stand-bys). A pink grapefruit spritz was served through the summer while a new pear and white tea fizz joins the line-up for winter.
+#tiips #理財 #儲錢 #財富自由 #股票 #財富 #投資理財 #fintech #dollarforbigminds #sustainableinvesting #時間 #黃金 #碎金
