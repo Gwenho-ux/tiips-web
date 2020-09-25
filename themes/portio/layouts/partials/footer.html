@@ -50,9 +50,8 @@
                   <h3>Address</h3>
                   {{ $address := .Site.Params.address }}
                   <ul>
-                      <li><a href="tel:{{ $address.phone }}"><i class="fa fa-phone"></i>{{ $address.phone }}</a></li> 
                       <li><a href="mailto:{{ $address.email }}"><i class="fa fa-envelope"></i>{{ $address.email }}</a></li>
-                      <li><p><i class="fa fa-map-marker"></i>{{ $address.address }}</p></li>
+                      <li><p><i class="fa fa-map-marker"></i>{{ $address.address }}</p><p style="margin-left: 30px;">{{ $address.street }}</p><p style="margin-left: 30px;">{{ $address.city }}</p></li>
                   </ul>
               </div>
           </div>

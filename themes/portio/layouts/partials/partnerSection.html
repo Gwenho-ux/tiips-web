@@ -1,7 +1,7 @@
 {{ with .Site.Data.partnerSection }}
     {{ if .enable }}
         <section class="section partner">
-            <div class="partner_background_shape">
+            <div class="partner__background_shape">
                 <svg viewBox="0 0 1920 79">
                     <path d="M0 0h1920v79L0 0z" data-name="Path 1450" />
                 </svg>
@@ -9,23 +9,38 @@
             <div class="container">
                 <div class="row text-center">
                     <div class="col-lg-6 offset-lg-3">
-                        <div class="partner_header">
-                            <span>{{ .topTitle }} </span>
-                            <h1>{{ .title }}</h1>
+                        <div class="partner__header">
+                            <h1>{{ .topTitle }} </h1>
+                            <span>{{ .title }}</span>
                         </div>
                     </div>
                 </div>
-                <div class="row">
-                    <div class="col-lg-12">
-                        <div class="partner-logo">
-                            {{ $section := .dbs }}
-                            {{ range $section }}
-                            <div class="dbs">
-                                <a></a>
-                                <img src="{{ .images | absURL}}" alt="dbs-img">
-                                </a>
-                            </div>
-                            {{ end }}
+                <div class="row align-center justify-content-around">
+                    <div class="p-2 col-lg-3">
+                        <div class="partner__logo">
+                            <a href="https://www.dbs.com.hk/index/default.page" target="_blank"><img src="images/partner/dbs.svg" alt="dbs-img"></a>
+                        </div>
+                    </div>
+                    <div class="p-2 col-lg-3">
+                        <div class="partner__logo">
+                            <a href="https://www.hkstp.org/" target="_blank"><img src="images/partner/hkstp.svg" alt="hkstp-img" class="hkstp"></a>
+                        </div>
+                    </div>
+                    <div class="p-2 col-lg-3">
+                        <div class="partner__logo">
+                            <a href="https://www.preface.ai/preface-coffee" target="_blank"><img src="images/partner/preface.svg" alt="preface-img"></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="row align-center justify-content-around">
+                    <div class="p-2 col-lg-3">
+                        <div class="partner__logo">
+                            <a href="https://www.emperorgroup.com/en/front/" target="_blank"><img src="images/partner/emperor.svg" alt="emperor-group-img"></a>
+                        </div>
+                    </div>
+                    <div class="p-2 col-lg-3">
+                        <div class="partner__logo">
+                            <a href="https://www.co2coins.com/" target="_blank"><img src="images/partner/carboncoin.svg" alt="carbon-coin-img"></a>
                         </div>
                     </div>
                 </div>
