@@ -109,6 +109,30 @@ $(document).ready(function () {
     ],
   });
 
+  // banner silder
+  $(".banner__slider").slick({
+    infinite: true,
+    slidesToShow: 1,
+    slidesToScroll: 1,
+    autoplay: true,
+    autoplaySpeed: 4000,
+    dots: true,
+    arrow: true,
+    responsive: [{
+        breakpoint: 1025,
+        settings: {
+          slidesToShow: 1
+        }
+      },
+      {
+        breakpoint: 601,
+        settings: {
+          slidesToShow: 1
+        }
+      }
+    ]
+  });
+
   // skill count
 
   $(".skill__progress").waypoint(

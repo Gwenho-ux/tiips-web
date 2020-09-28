@@ -1,0 +1,7 @@
+---
+enable: true
+banner: 
+  - image: images/banner/banner-1.svg
+  - image: images/banner/banner-2.svg
+  - image: images/banner/banner-3.svg
+  

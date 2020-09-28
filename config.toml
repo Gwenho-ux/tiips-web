@@ -51,6 +51,12 @@ title = "tiips"
     url = "#"
     weight = 4
 
+# Preloader
+[params.preloader]
+enable = true
+preloader = "" # use .png , .svg or .gif format
+gif= "images/6.gif"
+
 [params]
   blogPageURL = "blog"
   contactLink = "contact"
