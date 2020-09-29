@@ -1,38 +1,43 @@
+################################### Default Configuration ############################
 baseURL = "http://example.org/"
-languageCode = "en-us"
 paginate = 6
 theme = "portio"
 title = "tiips"
-  # Main Menu
-  [[menu.main]]
-    name = "Home"
-    url = "#home"
-    weight = 1
-  [[menu.main]]
-    name = "About"
-    url = "#about"
-    weight = 2
-  [[menu.main]]
-    name = "Service"
-    url = "#service"
-    weight = 3
-  [[menu.main]]
-    name = "Work"
-    url = "#portfolio"
-    weight = 4
-  [[menu.main]]
-    name = "Resume"
-    url = "#resume"
-    weight = 5
-  [[menu.main]]
-    name = "Blog"
-    url = "#blog"
-    weight = 6
-  [[menu.main]]
-    name = "Contact"
-    url = "#contact"
-    weight = 7
+# disable language
+disableLanguage = [] # diable language from here
+ 
+###################################### Navigation ###################################### 
+# Main Menu
+[[menu.main]]
+  name = "Home"
+  url = "#home"
+  weight = 1
+[[menu.main]]
+  name = "About"
+  url = "#about"
+  weight = 2
+[[menu.main]]
+  name = "Service"
+  url = "#service"
+  weight = 3
+[[menu.main]]
+  name = "Work"
+  url = "#portfolio"
+  weight = 4
+[[menu.main]]
+  name = "Resume"
+  url = "#resume"
+  weight = 5
+[[menu.main]]
+  name = "Blog"
+  url = "#blog"
+  weight = 6
+[[menu.main]]
+  name = "Contact"
+  url = "#contact"
+  weight = 7
 
+###################################### Footer ######################################
   # Sitemap Menu
   [[menu.sitemap]]
     name = "About me"
@@ -50,13 +55,22 @@ title = "tiips"
     name = "Latest Article"
     url = "#"
     weight = 4
+    
+########################### English Language ##########################
+[language.en]
+languageName = "English"
+languageCode = "en-us"
+contentDir = "content/english"
+weight = 1
 
-# Preloader
-[params.preloader]
-enable = true
-preloader = "" # use .png , .svg or .gif format
-gif= "images/6.gif"
+########################### Chinese Language ##########################
+[language.zh-Hant]
+languageName = "Chinese"
+languageCode = "zh-Hant"
+contentDir = "content/chinese"
+weight = 2
 
+########################### Default parameters ##########################
 [params]
   blogPageURL = "blog"
   contactLink = "contact"
