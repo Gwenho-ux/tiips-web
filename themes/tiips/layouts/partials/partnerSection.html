@@ -1,5 +1,7 @@
-{{ with .Site.Data.partnerSection }}
-    {{ if .enable }}
+{{ $data := index .Site.Data .Site.Language.Lang }}
+
+{{- if $data.partnerSection.enable }}
+    {{- with $data.partnerSection }}
         <section class="section partner">
             <div class="container">
                 <div class="row text-center">

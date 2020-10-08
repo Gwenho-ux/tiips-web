@@ -1,5 +1,7 @@
-{{ with .Site.Data.brandSection }}
-    {{ if .enable }}
+{{ $data := index .Site.Data .Site.Language.Lang }}
+
+{{- if $data.brandSection.enable }}
+    {{- with $data.brandSection }}
         <section class="section about" id="about">
             <div class="container">
                 <div class="row">

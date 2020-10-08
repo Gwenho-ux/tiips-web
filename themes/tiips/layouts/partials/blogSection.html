@@ -1,5 +1,7 @@
-{{ with .Site.Data.blogSection }}
-    {{ if .enable }}
+{{ $data := index .Site.Data .Site.Language.Lang }}
+
+{{- if $data.blogSection.enable }}
+{{- with $data.blogSection }}
 <section class="section blog" id="blog">
   <div class="blog__shape">
     <img src="images/blog/blog-shape.svg" alt="blog shape" />

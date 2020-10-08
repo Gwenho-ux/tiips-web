@@ -1,0 +1,23 @@
+---
+enable: true
+topTitle: 應用功能
+title: 我哋點解咁特別？
+subtitle:
+bgpattern: images/service/background-pattern.svg
+
+service:
+- title: 紮根香港
+  content: 我哋土生土長，可能係你最鍾意嘅香港投資 app
+  image: images/service/ui-ux.svg
+
+- title: 專屬你的積分 app
+  content: 透過消費兌換金融產品
+  image: images/service/web.svg
+
+- title: tiips x 科技
+  content: tiips 流程均為全自動於網上完成，因此用戶能享受最低及最佳投資成本。利用 tiips 現代化及便利的介面，以科技改變生活 
+  image: images/service/creative.svg
+
+- title: 富初創精神團隊
+  content: 作為一隊熱愛新嘗試的專業投資人士，因為我們能實踐自己夢想，我哋亦希望喺你追夢之旅上助你一臂之力。
+  image: images/service/ui-ux.svg

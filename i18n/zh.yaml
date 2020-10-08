@@ -1,10 +1,19 @@
 #####################  Header  #####################
 - id: "header_btn"
-  translation: "App Download"
+  translation: "下載"
 
 #####################  Hero Section #####################
-- id: "hero_btn"
-  translation: "Learn more"
+- id: "hero_title"
+  translation: "1234Loyalty Scheme for Stocks and Commodity"
+
+- id: "hero_substitle"
+  translation: "The first Spending and Invest loyalty app in Hong Kong"
+
+- id: "hero_pragraph"
+  translation: "tiips blends spending and investing,"
+
+- id: "hero_pragraphsub"
+  translation: "making your life well-enriched by technology."
 
 #####################  Brand Section #####################
 - id: "brand_title"
@@ -34,16 +43,16 @@
 
 #####################  Footer Section #####################
 - id: "sitemap"
-  translation: "tiips"
+  translation: "tiips 小貼士"
 
 - id: "address"
-  translation: "Address"
+  translation: "地址"
 
 - id: "location"
-  translation: "Lion Rock 72, 1/F, InnoCentre,"
+  translation: "創新中心1樓 Lion Rock 72"
 
 - id: "street"
-  translation: "72 Tat Chee Avenue, Kowloon Tong,"
+  translation: "九龍塘逹之路72號"
 
 - id: "city"
-  translation: "Hong Kong"
+  translation: "香港"

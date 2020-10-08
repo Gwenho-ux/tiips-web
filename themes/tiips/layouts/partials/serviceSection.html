@@ -1,5 +1,7 @@
-{{ with .Site.Data.serviceSection }}
-    {{ if .enable }}
+{{ $data := index .Site.Data .Site.Language.Lang }}
+
+{{- if $data.serviceSection.enable }}
+    {{- with $data.serviceSection }}
         <section class="section service" id="service">
             <div class="service__background">
                 <svg viewBox="0 0 1283 1126">
@@ -25,7 +27,7 @@
             </div>
 
             <div class="service__background_pattern">
-                <img src="images/service/background-pattern.svg" alt="background-pattern">
+                <img src="{{ .bgpattern | absURL }}" alt="background-pattern">
             </div>
 
             <div class="container">

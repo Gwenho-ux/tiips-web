@@ -1,5 +1,8 @@
-{{ with .Site.Data.hero }}
-  {{ if .enable }}
+{{ $data := index .Site.Data .Site.Language.Lang }}
+
+  {{- if $data.hero.enable }}
+  {{- with $data.hero }}
+  <!-- hero area --> 
     <section class="hero" id="home">
       <div class="hero_background-svg">
         <svg viewBox="0 0 1437 1133">
@@ -11,7 +14,7 @@
         </svg>
       </div>
       <div class="hero_footer-svg">
-        <img src="images/hero/figure-svg.svg" alt="" />
+        <img src="{{ .pattern | absURL }}" alt="" />
       </div>
       <div class="container">
         <div class="row align-items-center">
@@ -41,18 +44,18 @@
                   </g>
                 </svg>
               </div>
-              <span>{{ .title }}</span>
+              <span>{{ .title | markdownify}}</span>
               <h1>{{ .subtitle }}</h1>
               <p>
-                {{ .description }}<br>{{ .descriptionsub}}
+                {{ .desciption }}<br>{{ .descriptionsub }}
               </p>
-              <a href="{{ $.Site.BaseURL }}{{ "#about" }}" class="{{ if $.IsHome }}scroll{{ end }}">Learn more</a>
+              <a href="{{ $.Site.BaseURL }}{{ "#about" }}" class="{{ if $.IsHome }}scroll{{ end }}">{{ i18n "hero_btn" }}</a>
             </div>
           </div>
           <div class="col-lg-6">
             <div class="hero_figure">
               <div class="figure-svg">
-                <img src="images/hero/figure-svg.svg" alt="figure-svg" />
+                <img src="{{ .pattern | absURL }}" alt="figure-svg" />
               </div>
               <img
                 src="{{ .image | absURL }}"
@@ -89,8 +92,8 @@
               </div>  */}}
             </div>
           </div>
-        </div>
-      </div>
-    </section>
+        </div><!-- .row close -->
+      </div><!-- .container close -->
+    </section><!-- header close -->
   {{ end }}
 {{ end }}

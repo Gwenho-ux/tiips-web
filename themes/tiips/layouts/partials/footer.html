@@ -36,22 +36,22 @@
           </div>
           <div class="col-lg-4">
               <div class="contact__widget_sitemap">
-                  <h3>Sitemap</h3>
+                  <h3>{{ i18n "sitemap" }}</h3>
                   <ul>
                       {{ $sitemap := .Site.Menus.sitemap }}
                       {{ range $sitemap }}
-                        <li><a href="{{ .URL | absURL }}">{{ .Name }}</a></li>
+                        <li><a href="{{ .URL | absLangURL }}">{{ .Name }}</a></li>
                       {{ end }}
                   </ul>
               </div>
           </div>
           <div class="col-lg-4">
               <div class="contact__widget_address">
-                  <h3>Address</h3>
+                  <h3>{{ i18n "address" }}</h3>
                   {{ $address := .Site.Params.address }}
                   <ul>
                       <li><a href="mailto:{{ $address.email }}"><i class="fa fa-envelope"></i>{{ $address.email }}</a></li>
-                      <li><p><i class="fa fa-map-marker"></i>{{ $address.address }}</p><p style="margin-left: 30px;">{{ $address.street }}</p><p style="margin-left: 30px;">{{ $address.city }}</p></li>
+                      <li><p><i class="fa fa-map-marker"></i>{{ i18n "location" }}</p><p style="margin-left: 30px;">{{ i18n "street" }}</p><p style="margin-left: 30px;">{{ i18n "city" }}</p></li>
                   </ul>
               </div>
           </div>

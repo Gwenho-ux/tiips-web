@@ -1,31 +1,25 @@
 ---
 enable: true
-topTitle: Working Area
-title: Creative Services
-subtitle: Enjoy team diversity and increase their networks among others people in
-  various fields by provided.
+topTitle: About tiips
+title: What makes us special?
+subtitle:
+bgpattern: images/service/background-pattern.svg
+
 service:
-- title: UI/UX Design
-  content: Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-    tempor invidunt ut labore et dolore magna aliquyam erat.
+- title: Rooted in Hong Kong
+  content: Being born and raised in Hong Kong, tiips is definitely your favourite local investment app. 
   image: images/service/ui-ux.svg
-- title: Web Development
-  content: Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-    tempor invidunt ut labore et dolore magna aliquyam erat.
+
+- title: Loyalty app for everyone
+  content: Utilise your shopping purchases to convert to financial products, easy.
   image: images/service/web.svg
-- title: Creative Design
-  content: Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-    tempor invidunt ut labore et dolore magna aliquyam erat.
+
+- title: Us x Technology 
+  content: By fully optimising and streamlining our workflow automation features online, 
+      we have driven down retail costs thus delivered the best rate to you. 
+      Your life would be well-enriched by technology, through our modern and user-friendly interface. 
   image: images/service/creative.svg
-- title: Branding
-  content: Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-    tempor invidunt ut labore et dolore magna aliquyam erat.
-  image: images/service/branding.svg
-- title: UI/UX Design
-  content: Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-    tempor invidunt ut labore et dolore magna aliquyam erat.
+
+- title: A team with start-up spirit
+  content: As a startup with financial gurus, we will make your dreams come true, as we have also made ours. 
   image: images/service/ui-ux.svg
-- title: Web Development
-  content: Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-    tempor invidunt ut labore et dolore magna aliquyam erat.
-  image: images/service/web.svg

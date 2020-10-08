@@ -41,6 +41,13 @@
         }
     }
     
+    .lang-list {
+        border: 0;
+        margin: 10px 20px;
+        font-size: 16px;
+        cursor: pointer;
+    }
+
     .hire_button{
         background: $primary_color;
         padding: 8px 25px;

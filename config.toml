@@ -1,74 +1,142 @@
 ################################### Default Configuration ############################
 baseURL = "http://example.org/"
 paginate = 6
-theme = "portio"
+theme = "tiips"
 title = "tiips"
 # disable language
-disableLanguage = [] # diable language from here
+disableLanguages = [] # diable language from here
  
 ###################################### Navigation ###################################### 
 # Main Menu
-[[menu.main]]
-  name = "Home"
-  url = "#home"
+[[Languages.en.menu.main]]
+  name = "Homepage"
+  url = "/"
   weight = 1
-[[menu.main]]
-  name = "About"
+[[Languages.en.menu.main]]
+  name = "About Us"
   url = "#about"
   weight = 2
-[[menu.main]]
-  name = "Service"
+[[Languages.en.menu.main]]
+  name = "Latest News"
   url = "#service"
   weight = 3
-[[menu.main]]
-  name = "Work"
+[[Languages.en.menu.main]]
+  name = "Invest"
   url = "#portfolio"
   weight = 4
-[[menu.main]]
-  name = "Resume"
-  url = "#resume"
-  weight = 5
-[[menu.main]]
+[[Languages.en.menu.main]]
   name = "Blog"
   url = "#blog"
+  weight = 5
+[[Languages.en.menu.main]]
+  name = "Career"
+  url = "#resume"
   weight = 6
-[[menu.main]]
-  name = "Contact"
+[[Languages.en.menu.main]]
+  name = "FAQ"
   url = "#contact"
   weight = 7
 
 ###################################### Footer ######################################
   # Sitemap Menu
-  [[menu.sitemap]]
-    name = "About me"
+  [[Languages.en.menu.sitemap]]
+    name = "FAQ"
     url = "about"
     weight = 1
-  [[menu.sitemap]]
-    name = "Frequently Ask Question"
+  [[Languages.en.menu.sitemap]]
+    name = "Product Ket Facts Statement"
     url = "#"
     weight = 2
-  [[menu.sitemap]]
-    name = "Privacy & Policy"
+  [[Languages.en.menu.sitemap]]
+    name = "Terms & Conditions For Gold Manager"
     url = "#"
     weight = 3
-  [[menu.sitemap]]
-    name = "Latest Article"
+  [[Languages.en.menu.sitemap]]
+    name = "Privacy Policy"
     url = "#"
     weight = 4
+  [[Languages.en.menu.sitemap]]
+    name = "Leaflet Disclaimer"
+    url = "#"
+    weight = 5
+  [[Languages.en.menu.sitemap]]
+    name = "Careers"
+    url = "#"
+    weight = 6
     
+
+  [[Languages.zh.menu.sitemap]]
+    name = "常見問題"
+    url = "about"
+    weight = 1
+  [[Languages.zh.menu.sitemap]]
+    name = "產品資料概要"
+    url = "#"
+    weight = 2
+  [[Languages.zh.menu.sitemap]]
+    name = "黃金交易戶口條款及細則"
+    url = "#"
+    weight = 3
+  [[Languages.zh.menu.sitemap]]
+    name = "隱私政策"
+    url = "#"
+    weight = 4
+  [[Languages.zh.menu.sitemap]]
+    name = "宣傳單張條款及細則"
+    url = "#"
+    weight = 5
+  [[Languages.zh.menu.sitemap]]
+    name = "職位空缺"
+    url = "#"
+    weight = 6
+
 ########################### English Language ##########################
-[language.en]
+[Languages.en]
 languageName = "English"
 languageCode = "en-us"
 contentDir = "content/english"
 weight = 1
+# copyright
+copyright = "All right reserved copyright © tiips 2020"
 
 ########################### Chinese Language ##########################
-[language.zh-Hant]
-languageName = "Chinese"
+[Languages.zh]
+languageName = "中文"
 languageCode = "zh-Hant"
 contentDir = "content/chinese"
 weight = 2
+# copyright
+copyright = " 2020 TIPS Dollar (Hong Kong) Ltd. 版權所有，不得轉載。"
+
+# Main Menu
+[[Languages.zh.menu.main]]
+  name = "主頁"
+  url = "/"
+  weight = 1
+[[Languages.zh.menu.main]]
+  name = "關於我們"
+  url = "#about"
+  weight = 2
+[[Languages.zh.menu.main]]
+  name = "最新消息"
+  url = "#service"
+  weight = 3
+[[Languages.zh.menu.main]]
+  name = "投資"
+  url = "#portfolio"
+  weight = 4
+[[Languages.zh.menu.main]]
+  name = "網誌"
+  url = "#blog"
+  weight = 5
+[[Languages.zh.menu.main]]
+  name = "加入團隊"
+  url = "#resume"
+  weight = 6
+[[Languages.zh.menu.main]]
+  name = "常問問題"
+  url = "#contact"
+  weight = 7
 
 ########################### Default parameters ##########################
 [params]
